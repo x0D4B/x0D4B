@@ -1,8 +1,6 @@
 <img src=""/>
 
 <h1 align="center">Hi 👋, I'm x0D4B</h1>
-<p align="center">Im founder idiots internal team</p>
-
 - 🔭 I’m currently working on [UbiClient](ubiclient.xyz)
 
 - 📫 Contact me in discord : **x0D4B#3041**
