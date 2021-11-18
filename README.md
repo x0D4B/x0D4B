@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm x0D4B</h1>
+<img src="https://i.imgur.com/bX4zIRO.png"/>
 
-- 🔭 My team : **Idiots Internal Team**
+<a href="https://discord.com/users/335988287913066498"><img align="left" src="https://lanyard-profile-readme.vercel.app/api/335988287913066498?bg=23283d&borderRadius=8px"/></a>
 
-- 💬 Contact me : **discord : x0D4B#0001**
+☁  <a href="https://www.spigotmc.org/members/droreo002.416123/">Spigot Profile</a>
+🐱 <a href="https://karyakarsa.com/kamvret/" class="padding-left: 2em;">Github Profile Picture</a>
+⛰  <a href="https://www.patreon.com/Kurzgesagt" class="padding-left: 2em;">Background Picture</a>
+<br>
+## 📋 Profile
 
-<p align="left">
-</p>
-
-<h3 align="left">Languages:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=x0d4b&show_icons=true&locale=en&layout=compact" alt="x0d4b" /></p>
+Hey there, I'm DrOreo002, a 18yo guy from Bali 🏝 <br/><br/>I'm the owner of a hosting service called **HydraX** if you have any question about it please contact me via discord!
