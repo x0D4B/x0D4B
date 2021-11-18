@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm x0D4B</h1>
-<h4 align="center">im from bali xD, 16 yo</h4>
 
 - 🔭 My team : **Idiots Internal Team**
 
