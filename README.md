@@ -1,8 +1,18 @@
 <img src="https://i.imgur.com/bX4zIRO.png"/>
 
-<a href="https://discord.com/users/335988287913066498"><img align="left" src="https://lanyard-profile-readme.vercel.app/api/335988287913066498?bg=23283d&borderRadius=8px"/></a>
+<h1 align="center">Hi 👋, I'm x0D4B</h1>
+<h3 align="center">Im founder idiots internal team</h3>
 
-<br>
-## 📋 Profile
+- 🔭 I’m currently working on [UbiClient](ubiclient.xyz)
 
-Hey there, Im x0D4B <br/><br/>I'm the owner of a hosting service called **HydraX** if you have any question about it please contact me via discord!
+- 📫 Contact me in discord **x0D4B#3041**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=x0d4b&show_icons=true&locale=en&layout=compact" alt="x0d4b" /></p>
+
