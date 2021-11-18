@@ -1,4 +1,4 @@
-<center><img src="https://i.ibb.co/VgdqC8g/20211118-150134.jpg"/></center>
+<center><img src="https://i.ibb.co/Ry2FvQy/1637237964485-picsay.png"/></center>
 
 <h1 align="center">Hi 👋, I'm x0D4B</h1>
 
