@@ -1,7 +1,7 @@
 <img src=""/>
 
 <h1 align="center">Hi 👋, I'm x0D4B</h1>
-<h3 align="center">Im founder idiots internal team</h3>
+<p align="center">Im founder idiots internal team</p>
 
 - 🔭 I’m currently working on [UbiClient](ubiclient.xyz)
 
