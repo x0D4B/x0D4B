@@ -1,16 +1,5 @@
 <img src="https://i.ibb.co/6RVk3NB/thumbs-up-hacker.gif"/>
 
-<h1 align="center">Hi 👋, I'm x0D4B</h1>
-
-- 🔭 I’m currently working on [UbiClient](ubiclient.xyz)
-
-- 📫 Contact me in discord : **x0D4B#3041**
-
-<p align="left">
-</p>
-
-<h3 align="left">Languages :</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=x0d4b&show_icons=true&locale=en&layout=compact" alt="x0d4b" /></p>
-
+## 📋 Profile
+Hai im x0D4B👋<br/>I'm from Indonesia, I'm 16 years old, I'm currently working on the Ubiclient project<br>if you have any questions, you can chat me on discord
+<img src="https://i.ibb.co/KxML5H7/1637724903316.png"/>
