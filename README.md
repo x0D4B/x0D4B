@@ -1,4 +1,4 @@
-<center><img src="https://tenor.com/VwxM.gif"/></center>
+<img src="https://i.ibb.co/6RVk3NB/thumbs-up-hacker.gif"/>
 
 <h1 align="center">Hi 👋, I'm x0D4B</h1>
 
